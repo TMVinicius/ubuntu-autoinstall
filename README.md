@@ -8,7 +8,17 @@ Use the URL raw:
     https://raw.githubusercontent.com/TMVinicius/ubuntu-autoinstall/refs/heads/main/autoinstall.yaml
 ```
 
+## Ubuntu-debullshit!
 
+```bash
+    sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/polkaulfield/ubuntu-debullshit/main/ubuntu-debullshit.sh)"
+```
+
+2 - Disable Ubuntu report
+3 - Remove app crash popup
+4 - Remove snaps and snapd (Caso queira tirar o gerenciador dos Snaps do Sistema)
+6 - Install flathub and gnome-software 
+7 - Install firefox from the Mozilla repo
 
 ## Create a custom ISO (alternative)
 
