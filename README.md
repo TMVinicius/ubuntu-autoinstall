@@ -3,7 +3,7 @@
 This is a sample file, it can be used as a reference for your own installations.
 The password is: 123
 
-Use the URL of the file: 
+Use the URL raw: 
 ```bash
     https://raw.githubusercontent.com/TMVinicius/ubuntu-autoinstall/refs/heads/main/autoinstall.yaml
 ```
